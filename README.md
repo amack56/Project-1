@@ -30,3 +30,9 @@ Final Product:
 The idea here is to create a dashboard with Panel, that contains PyViz graphs from the data we created and manipulated, firstly extracting the data from an API, then creating a Database with SQL, and manipulating it with Pandas.
 
 Ideally from this data we can better analyze draft strategies and players in order to provide an ‘edge.’ We can look at things like drafting players with high average weekly scores and high std devs vs. players with high scores but low deviations. Additionally, we can implement betting strategies and assess our rate of return and associated financial metrics in order to assess how our ‘system’ works in a real world setting. 
+
+Research:
+- Which new library should we use?
+
+
+

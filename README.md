@@ -8,6 +8,15 @@ Mark Campbell
 Alex Mack
 Antonio Guerrero
 
+Tasks:
+
+Create repo (all)
+Create project structure (Mark)
+Create user branches (all)
+Test/Play APIs with Python (Antonio)
+Look at scoring structures/what type of leagues we want to backtest (Alex)
+Visualize data & use a new library (Mark)
+
 Proposal:
 
 We are attempting to use Yahoo Sports API and ESPN API, as well as other resources to scrub the historical data of previous years of fantasy football in order to draw conclusions and present analysis of data.

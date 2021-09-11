@@ -4,9 +4,9 @@ Project 1 - Proposal
 
 Members:
 
-Mark Campbell
-Alex Mack
-Antonio Guerrero
+- Mark Campbell
+- Alex Mack
+- Antonio Guerrero
 
 Tasks:
 

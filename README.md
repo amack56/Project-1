@@ -10,12 +10,12 @@ Antonio Guerrero
 
 Tasks:
 
-Create repo (all)
-Create project structure (Mark)
-Create user branches (all)
-Test/Play APIs with Python (Antonio)
-Look at scoring structures/what type of leagues we want to backtest (Alex)
-Visualize data & use a new library (Mark)
+- Create repo (all)
+- Create project structure (Mark)
+- Create user branches (all)
+- Test/Play APIs with Python (Antonio)
+- Look at scoring structures/what type of leagues we want to backtest (Alex)
+- Visualize data & use a new library (Mark)
 
 Proposal:
 

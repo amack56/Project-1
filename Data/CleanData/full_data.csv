@@ -110,6 +110,7 @@ Year,Player,Tm,Pos,FantasyPoints
 2010,Malcom Floyd,SDG,WR,144.7
 2010,Nate Burleson,DET,WR,157.6
 2010,Brett Favre,MIN,QB,97.16
+2010,Chad Johnson,CIN,0,174.1
 2010,Anthony Armstrong,WAS,WR,147.1
 2010,Jonathan Stewart,CAR,RB,105.3
 2010,Hines Ward,PIT,WR,162.3
@@ -510,8 +511,11 @@ Year,Player,Tm,Pos,FantasyPoints
 2010,Jeff Cumberland,NYJ,TE,1.3
 2010,Lex Hilliard,MIA,RB,1.3
 2010,Larry Johnson,WAS,RB,0.2
+2010,Elbert Mack,TAM,0,-2.0
 2010,Devin Moore,IND,RB,-2.2
+2010,Kenny Moore,IND,0,-2.0
 2010,Dennis Pitta,BAL,TE,1.1
+2010,Courtney Roby,NOR,0,-2.0
 2010,Sage Rosenfels,NYG,QB,-0.3
 2010,Antone Smith,ATL,RB,-0.3
 2010,Billy Volek,SDG,QB,-0.18
@@ -1046,6 +1050,7 @@ Year,Player,Tm,Pos,FantasyPoints
 2011,Corey McIntyre,BUF,RB,1.4
 2011,Armond Smith,CLE,RB,0.2
 2011,Stephen Spach,STL,TE,2.2
+2011,Brandon Tate,CIN,0,-4.0
 2011,Tyler Thigpen,BUF,QB,-0.2
 2011,Billy Volek,SDG,QB,-0.5
 2012,Adrian Peterson,MIN,RB,345.4
@@ -1580,6 +1585,7 @@ Year,Player,Tm,Pos,FantasyPoints
 2012,Ted Ginn,SFO,WR,0.7999999999999998
 2012,Brock Osweiler,DEN,QB,-0.8200000000000001
 2012,Graham Harrell,GNB,QB,-1.5
+2012,Josh Johnson,CLE,0,-2.0
 2012,Ryan Mallett,NWE,QB,-2.22
 2012,Joe Adams,CAR,WR,-3.0
 2013,Jamaal Charles,KAN,RB,378.0
@@ -2105,9 +2111,11 @@ Year,Player,Tm,Pos,FantasyPoints
 2013,Damaris Johnson,PHI,WR,1.4
 2013,Charlie Whitehurst,SDG,QB,-0.5
 2013,Tyler Clutts,2TM,RB,-0.6000000000000001
+2013,Greg Jenkins,OAK,0,-2.0
 2013,Matt Moore,MIA,QB,-1.88
 2013,Curtis Painter,NYG,QB,-1.92
 2013,Darius Reynaud,2TM,RB,-0.6000000000000001
+2013,Devon Wylie,TEN,0,-2.0
 2013,Trindon Holliday,DEN,WR,-3.3
 2014,DeMarco Murray,DAL,RB,351.1
 2014,Le'Veon Bell,PIT,RB,370.5
@@ -2630,8 +2638,10 @@ Year,Player,Tm,Pos,FantasyPoints
 2014,Griff Whalen,IND,WR,2.3
 2014,Pat O'Donnell,CHI,WR,-1.2
 2014,Jalen Saunders,4TM,WR,-0.30000000000000004
+2014,Isaiah Burse,DEN,0,-2.0
 2014,Matt Flynn,GNB,QB,-2.36
 2014,Tauren Poole,3TM,RB,-2.0
+2014,Walt Powell,NYJ,0,-2.0
 2014,Matt Schaub,OAK,QB,-3.72
 2015,Antonio Brown,PIT,WR,378.2
 2015,Devonta Freeman,ATL,RB,316.4
@@ -3180,6 +3190,8 @@ Year,Player,Tm,Pos,FantasyPoints
 2015,Chris Harper,NWE,WR,-0.3999999999999999
 2015,David Johnson,SDG,TE,-0.20000000000000015
 2015,Drew Stanton,ARI,QB,-1.14
+2015,Frankie Hammond,KAN,0,-2.0
+2015,Raheem Mostert,3TM,0,-2.0
 2015,Marcus Murphy,NOR,RB,-2.0
 2015,Isaiah Pead,STL,RB,-1.7
 2015,Glenn Winston,CLE,RB,-2.8
@@ -3733,6 +3745,7 @@ Year,Player,Tm,Pos,FantasyPoints
 2016,Jakeem Grant,MIA,WR,-1.9
 2016,Brett Hundley,GNB,QB,-1.5199999999999998
 2016,Ryan Mallett,BAL,QB,-1.56
+2016,Keshawn Martin,SFO,0,-2.0
 2016,Matthew Slater,NWE,WR,-1.5
 2017,Todd Gurley,LAR,RB,383.3
 2017,Le'Veon Bell,PIT,RB,341.6
@@ -4826,8 +4839,11 @@ Year,Player,Tm,Pos,FantasyPoints
 2018,Geno Smith,LAC,QB,-1.48
 2018,Rod Streater,CLE,WR,-1.1
 2018,Robert Turbin,IND,RB,0.2999999999999998
+2018,Kaelin Clay,NYG,0,-2.0
 2018,JJ Jones,2TM,WR,-0.7
 2018,Kyle Lauletta,NYG,QB,-2.2
+2018,Riley McCarron,NWE,0,-2.0
+2018,Jojo Natson,LAR,0,-2.0
 2019,Christian McCaffrey,CAR,RB,469.2
 2019,Lamar Jackson,BAL,QB,415.68
 2019,Derrick Henry,TEN,RB,294.6
@@ -5381,7 +5397,10 @@ Year,Player,Tm,Pos,FantasyPoints
 2019,Eric Tomlinson,3TM,TE,1.1
 2019,Blake Bortles,LAR,QB,-0.78
 2019,Sean Mannion,MIN,QB,-1.46
+2019,Greg Dortch,CAR,0,-2.0
 2019,Quincy Enunwa,NYJ,WR,-1.4
+2019,Ray-Ray McCloud,CAR,0,-2.0
 2019,Darrius Shepherd,GNB,WR,-0.8999999999999999
 2019,Jarrett Stidham,NWE,QB,-1.64
 2019,Michael Walker,JAX,WR,-0.5
+2019,Corey Clement,PHI,0,-4.0

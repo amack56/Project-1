@@ -6,4 +6,8 @@ def read_fantasy_data(start_year,end_year):
     dfs=[]
     for year in years:
         df = pd.read_csv(Path(f"../Data/RawData/{year}.csv"))
-        
+        df["Year"]= year
+        df = df[["Year","Player","Tm","Pos","FantasyPoints"]]
+        df = df.set_index("Year")
+        dfs.append(df)
+    return pd.concat(dfs)

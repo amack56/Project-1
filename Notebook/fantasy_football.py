@@ -25,6 +25,8 @@ def read_fantasy_data(start_year,end_year):
 
             
         
+<<<<<<< HEAD
+=======
     return pd.concat(dfs)
 
 def read_rushing_yds(start_year, end_year):
@@ -52,4 +54,5 @@ def read_rushing_yds(start_year, end_year):
 #            dfs.append(df)
             break
     
+>>>>>>> dab5249d3e950e586b51eb62978ae2f8e46d1f1c
     return pd.concat(dfs)

@@ -53,6 +53,6 @@ def read_rushing_yds(start_year, end_year):
 #            df = df.set_index("Year")
 #            dfs.append(df)
             break
-    
+    dfs=pd.concat(dfs).reset_index()
 #>>>>>>> dab5249d3e950e586b51eb62978ae2f8e46d1f1c
-    return pd.concat(dfs)
+    return dfs

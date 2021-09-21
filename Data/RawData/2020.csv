@@ -1,5 +1,5 @@
 ,,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fumbles,Fumbles,Scoring,Scoring,Scoring,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank
+Rk,Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,RushingYds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP,FantPt,PPR,DKPt,FDPt,VBD,PosRank,OvRank
 1,Derrick Henry *+\HenrDe00,TEN,RB,26,16,16,0,0,0,0,0,378,2027,5.36,17,31,19,114,6.00,0,3,2,17,1,,314,333.1,341.1,323.6,184,1,1
 2,Alvin Kamara *\KamaAl00,NOR,RB,25,15,10,0,0,0,0,0,187,932,4.98,16,107,83,756,9.11,5,1,0,21,,,295,377.8,383.8,336.3,165,2,2
 3,Dalvin Cook*\CookDa01,MIN,RB,25,14,14,0,0,0,0,0,312,1557,4.99,16,54,44,361,8.20,1,5,3,17,3,,294,337.8,346.8,315.8,164,3,3

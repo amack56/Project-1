@@ -22,11 +22,6 @@ def read_fantasy_data(start_year,end_year):
                 df['Player'][ind] = df['Player'][ind].split(sep="\\")[0].replace("*", "").replace("+", "").strip()
             df = df.set_index("Year")
             dfs.append(df)
-
-            
-        
-#<<<<<<< HEAD
-#=======
     return pd.concat(dfs)
 
 def read_rushing_yds(start_year, end_year):
@@ -40,19 +35,11 @@ def read_rushing_yds(start_year, end_year):
             df = df.set_index("Year")
             dfs.append(df)
         else:
-            df1 = pd.read_csv(Path(f"../Data/RawData/{year}.csv"), header=0)
-            rushing_yds = df1['Rushing.1']
-            rushing_yds = rushing_yds.to_frame()
-            rushing_yds.drop([0], inplace=True)
-            df2 = pd.read_csv(Path(f"../Data/RawData/{year}.csv"), header=1)
-#            df["Year"]= year
-#            df = df[["Year","Player","Tm","FantPos","PPR"]]
-#            df = df.rename(columns={"FantPos": "Pos", "PPR" : "FantasyPoints"})
-#            for ind in df.index:
-#                df['Player'][ind] = df['Player'][ind].split(sep="\\")[0].replace("*", "").replace("+", "").strip()
-#            df = df.set_index("Year")
-#            dfs.append(df)
-            break
-    dfs=pd.concat(dfs).reset_index()
-#>>>>>>> dab5249d3e950e586b51eb62978ae2f8e46d1f1c
-    return dfs
+            df = pd.read_csv(Path(f"../Data/RawData/2020.csv"), header=1)
+            df["Year"]= "2020"
+            df = df[["Year","Player","Tm","FantPos","RushingYds","PPR"]]
+            df = df.rename(columns={"FantPos": "Pos", "PPR" : "FantasyPoints"})
+            df = df.set_index("Year")
+            dfs.append(df)
+        dfs.reset_index()
+    return pd.concat(dfs)

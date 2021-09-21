@@ -41,5 +41,5 @@ def read_rushing_yds(start_year, end_year):
             df = df.rename(columns={"FantPos": "Pos", "PPR" : "FantasyPoints"})
             df = df.set_index("Year")
             dfs.append(df)
-        dfs.reset_index()
+#         dfs.reset_index()
     return pd.concat(dfs)
